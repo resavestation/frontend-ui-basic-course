@@ -1,6 +1,3 @@
-# frontend-ui-basic-course
-前端UI派作業用
-!
 <h1>練習目的</h1>
 <p>
 安裝工具(sourcetree、vscode)並clone此專案，
